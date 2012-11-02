@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "omniauth-yahoo-japan/version"
+require "omniauth-yahoo_japan/version"
 
 Gem::Specification.new do |s|
-  s.name        = "omniauth-yahoo-japan"
+  s.name        = "omniauth-yahoo_japan"
   s.version     = Omniauth::YahooJapan::VERSION
   s.authors     = ["Rei Kagetsuki"]
   s.email       = ["zero@genshin.org"]
