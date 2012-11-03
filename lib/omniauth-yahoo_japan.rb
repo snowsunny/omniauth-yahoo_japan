@@ -1,2 +1,2 @@
-require "omniauth-yahoo-japan/version"
-require 'omniauth/strategies/yahoo-japan'
+require "omniauth-yahoo_japan/version"
+require 'omniauth/strategies/yahoo_japan'

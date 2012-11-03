@@ -7,7 +7,7 @@ module OmniAuth
     # An omniauth 1.0 strategy for Yahoo! Japan authentication
     class YahooJapan < OmniAuth::Strategies::OAuth
       
-      option :name, 'yahoo-japan'
+      option :name, 'yahoo_japan'
       
       option :client_options, {
         :access_token_path  => '/oauth/v2/get_token',
